@@ -25,7 +25,7 @@ Caption generate/
 ## 🌐 How It Works
 
 1. **Feature Extraction**
-   - A pre-trained CNN (e.g., VGG16 or InceptionV3) extracts image features.
+   - A pre-trained CNN (InceptionV3) extracts image features.
 2. **Text Tokenization**
    - The tokenizer encodes all training captions.
 3. **Caption Generation**
